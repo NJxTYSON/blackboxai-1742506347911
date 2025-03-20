@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Ludo colors -->
+    <color name="primary">#FF4081</color>  <!-- Pink - representing the vibrant Ludo board -->
+    <color name="primary_dark">#C60055</color>
+    <color name="primary_light">#FF79B0</color>
+    
+    <!-- Accent colors for different Ludo pieces -->
+    <color name="accent_red">#F44336</color>     <!-- Red player -->
+    <color name="accent_blue">#2196F3</color>    <!-- Blue player -->
+    <color name="accent_green">#4CAF50</color>   <!-- Green player -->
+    <color name="accent_yellow">#FFEB3B</color>  <!-- Yellow player -->
+    
+    <!-- Common colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#EEEEEE</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>
